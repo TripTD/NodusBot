@@ -1,0 +1,2 @@
+# NodusBot
+Darkorbit pixel BOT
